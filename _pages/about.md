@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "CV"
 author_profile: true
 redirect_from: 
@@ -62,20 +61,12 @@ Publications
 * Yoder, J. A., Chambers, M. J., Tank, J. L., Keeney, G. D., & Miller, J. (2009). High temperature effects on water loss and survival examining the hardiness of female adults of the spider beetles, Mezium affine and Gibbium aequinoctiale. Journal of Insect Science, 9(1).
 * Yoder, J. A., Chambers, M. J., Condon, M. R., Benoit, J. B., & Zettler, L. W. (2009). Regulation of the external mycoflora of the giant Madagascar hissing-cockroach, Gromphadorhina portentosa, by its mite associate, Gromphadorholaelaps schaeferi, and its implications on human health. Symbiosis, 47(2), 93-98.
 
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-
 Teaching
 ======
 * Mentor - Sophie Scobell, NIH IRTA Fellow
 * Mentor - Maya Sinha, NIH Summer Student
 * FAES – BIOL262 Research Tools for Studying Diseases, Teaching Assistant (2018)
 * FAES – BIOF309 Introduction to Python Teaching Assistant (2017-2019)
-
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Service & Honors
 ======
@@ -97,4 +88,3 @@ Service & Honors
 * Omicron Delta Kappa Sophomore Involvement Award, 2009
 * Ohio Valley Entomological Association Research Competition: 2nd Place, 2008
 * Boy Scouts of America: Eagle Scout, 2007
-
