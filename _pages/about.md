@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-###I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+#### I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
 
 Education
 ======
@@ -28,15 +28,10 @@ Work Experience
   
 Skills
 ======
-* General lab techniques
+* General Lab Techniques
   * Molecular cloning, 
   * Cell culture & sterile technique
   * FPLC protein purification
-* General programming
-  * Languages: Bash, Python
-  * Git
-  * Singularity
-  * Distributed computing resources
 * Immunology
   * Cloning, transfection, purification, and biotinylation of monoclonal antibodies
   * Cloning, transfection, FPLC purification, and conjugation of influenza HA fluorescent probes
@@ -49,22 +44,26 @@ Skills
   * Generating variant libraries (missense, saturation, indel, chimeras)
   * DNA barcoding
   * BarSeq assays
-* Bioinformatics
-  * Snakemake
-  * Samtools
-  * Minimap2
-  * Blast
-  * Mash
-  * MultiQC
-* Data Science
-  * Jupyter Notebooks
-  * Pandas (Python)
-  * SciKit Learn (Python)
+* General programming
+  * Languages: Bash, Python
+  * Git
+  * Conda environments
+  * Singularity
+  * Distributed computing resources
 * Structural Biology
   * PyMol
   * ChimeraX
   * Rosetta Suite
   * AlphaFold2
+* Bioinformatics
+  * Snakemake
+  * Samtools
+  * Minimap2
+  * Blast
+* Data Science
+  * Jupyter Notebooks
+  * Pandas (Python)
+  * SciKit Learn (Python)
 
 Teaching
 ======
