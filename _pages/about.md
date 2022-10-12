@@ -28,42 +28,20 @@ Work Experience
   
 Skills
 ======
-* General Lab Techniques
-  * Molecular cloning, 
-  * Cell culture & sterile technique
-  * FPLC protein purification
-* Immunology
-  * Cloning, transfection, purification, and biotinylation of monoclonal antibodies
-  * Cloning, transfection, FPLC purification, and conjugation of influenza HA fluorescent probes
-* Yeast Genetics
-  * High-throughput transformations
-  * Synthetic agglutination mating assays
-  * pooled CRISPR/Cas9 edits
-* Deep Mutational Scanning
-  * Oligo array design
-  * Generating variant libraries (missense, saturation, indel, chimeras)
-  * DNA barcoding
-  * BarSeq assays
-* General programming
-  * Languages: Bash, Python
-  * Git
-  * Conda environments
-  * Singularity
-  * Distributed computing resources
-* Structural Biology
-  * PyMol
-  * ChimeraX
-  * Rosetta Suite
-  * AlphaFold2
-* Bioinformatics
-  * Snakemake
-  * Samtools
-  * Minimap2
-  * Blast
-* Data Science
-  * Jupyter Notebooks
-  * Pandas (Python)
-  * SciKit Learn (Python)
+* Lab Techniques
+  * Molecular cloning: PCR, Gibson Assembly, plasmid prep
+  * Yeast genetics: high-throughput plasmid transformations, synthetic agglutination assays, CRISPR/CAS9 edits
+  * Cell culture: sterile technique, Expi293 cells, mAb expression and purification
+  * Flow cytometry: conjugation and cell staining, CytoFlexLS, FlowJo
+  * Protein purification: FPLC, HIS-tag purification, biotinylation
+  * Sequencing: MiSeq library prep and analysis, PacBio library prep and analysis
+  * Deep mutational scanning: oligo array design, DNA barcodes, BarSeq experiments
+* Programming
+  * Languages: Bash, Python (Numpy, Pandas, SciKit Learn)
+  * Reproducability: Jupyter Notebooks, Conda, Snakemake, Singularity, Git
+  * Bioinformatics: Samtools, Blast, MiniMap2
+  * Structural Biology: PyMol, ChimeraX, AlphaFold2
+  * Comfortable using distributed computing resources
 
 Teaching
 ======
