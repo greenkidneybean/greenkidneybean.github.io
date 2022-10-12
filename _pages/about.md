@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: ""
 excerpt: "CV"
 author_profile: true
 redirect_from: 
