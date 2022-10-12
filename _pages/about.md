@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm fascinated by microbes and the forces that drive their evolution. I work at the National Institutes of Health in partnership with Georgetown University and currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in [Meru Sadhu's group](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
 
 Education
 ======
@@ -76,7 +76,7 @@ Service & Honors
 * Member of the Society for Molecular Biology & Evolution, 2021-present
 * Georgetown University MCGSO Research Day – 1st Place Poster Presentation, 2019
 * NIH Graduate Partnership Program with Georgetown University, 2018
-* NCBI-NLM  Bioinformatics Hackathon – [SCANT](https://github.com/NCBI-Hackathons/SCANT/) (2017)[PubCode](https://github.com/NCBI-Hackathons/PubCode) (2018), [MetaClaMP-ML](https://github.com/NCBI-Hackathons/MetaClaMP-ML) (2019)
+* NCBI-NLM  Bioinformatics Hackathon – [SCANT](https://github.com/NCBI-Hackathons/SCANT/) (2017), [PubCode](https://github.com/NCBI-Hackathons/PubCode] (2018), [MetaClaMP-ML](https://github.com/NCBI-Hackathons/MetaClaMP-ML) (2019)
 * Organizer for the International Society for Computational Biology Workshop at the University of Maryland, 2017
 * Garrett Park Elementary School Science Fair Judge, 2016 & 2018
 * NIH Technical Intramural Research Training Award, 2014
