@@ -37,7 +37,7 @@ Skills
   * Sequencing: MiSeq library prep and analysis, PacBio library prep and analysis
   * Deep mutational scanning: oligo array design, DNA barcodes, BarSeq experiments
 * Programming
-  * Languages: Bash, Python (Numpy, Pandas, SciKit Learn)
+  * Languages: Bash, Python (Numpy, Pandas, Seaborn, SciKit Learn)
   * Reproducability: Jupyter Notebooks, Conda, Snakemake, Singularity, Git
   * Bioinformatics: Samtools, Blast, MiniMap2
   * Structural Biology: PyMol, ChimeraX, AlphaFold2
@@ -45,10 +45,10 @@ Skills
 
 Teaching
 ======
-* Mentor - Sophie Scobell, NIH IRTA Fellow
-* Mentor - Maya Sinha, NIH Summer Student
-* FAES – BIOL262 Research Tools for Studying Diseases, Teaching Assistant (2018)
-* FAES – BIOF309 Introduction to Python Teaching Assistant (2017-2019)
+* Mentor - Sophie Scobell, NIH IRTA Fellow, 2022-present
+* Mentor - Maya Sinha, NIH Summer Student, 2021
+* FAES – BIOL262 Research Tools for Studying Diseases, Teaching Assistant, 2018
+* FAES – BIOF309 Introduction to Python Teaching Assistant, 2017-2019
 
 Publications
 ======
