@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm fascinated by microbes and the forces that drive their evolution. I work at the National Institutes of Health in partnership with Georgetown University and currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+
 Education
 ======
 * B.S. in Biology, Wittenberg University, 2010
