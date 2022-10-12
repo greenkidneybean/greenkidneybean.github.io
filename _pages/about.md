@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+###I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
 
 Education
 ======
