@@ -13,10 +13,9 @@ I'm fascinated by microbes and the forces that shape their evolution. I work at 
 Education
 ======
 * B.S. in Biology, Wittenberg University, 2010
-* Incomplete D.O., Ohio University Heritage College of Osteopathic Medicine, 2014
 * Ph.D in Microbiology & Immunology, Georgetown University and the National Institues of Health, 2023 (expected)
 
-Work experience
+Work Experience
 ======
 * Kelly Government Solutions – Research Biologist, 2017-2018
   * Vaccine Research Center, NIH-NIAID, Bethesda, MD
@@ -29,14 +28,50 @@ Work experience
   
 Skills
 ======
-* General lab techniques – Molecular cloning, human cell culture, protein purification
-* General programming – Bash, Python, Git, Singularity, distributed computing
-* Immunology – Cell culture, expression and FPLC of influenza HA probes and monoclonal antibodies
-* Yeast Genetics – High-throughput transformations, mating assays, and CRISPR/Cas9 edits
-* Deep Mutational Scanning – Design of oligo arrays, generating variant libraries (missense, saturation, indel, chimeras), DNA barcoding, BarSeq assays
-* Bioinformatics – Snakemake, Samtools, Minimap2, Blast, Mash, MultiQC
-* Machine Learning/Data Science – Jupyter Notebooks, Pandas (Python), SciKit Learn (Python)
-* Structural Biology – PyMol, ChimeraX, Rosetta Suite, AlphaFold2, CoLabFold
+* General lab techniques
+  * Molecular cloning, 
+  * Cell culture & sterile technique
+  * FPLC protein purification
+* General programming
+  * Languages: Bash, Python
+  * Git
+  * Singularity
+  * Distributed computing resources
+* Immunology
+  * Cloning, transfection, purification, and biotinylation of monoclonal antibodies
+  * Cloning, transfection, FPLC purification, and conjugation of influenza HA fluorescent probes
+* Yeast Genetics
+  * High-throughput transformations
+  * Synthetic agglutination mating assays
+  * pooled CRISPR/Cas9 edits
+* Deep Mutational Scanning
+  * Oligo array design
+  * Generating variant libraries (missense, saturation, indel, chimeras)
+  * DNA barcoding
+  * BarSeq assays
+* Bioinformatics
+  * Snakemake
+  * Samtools
+  * Minimap2
+  * Blast
+  * Mash
+  * MultiQC
+* Data Science
+  * Jupyter Notebooks
+  * Pandas (Python)
+  * SciKit Learn (Python)
+* Structural Biology
+  * PyMol
+  * ChimeraX
+  * Rosetta Suite
+  * AlphaFold2
+
+Teaching
+======
+* Mentor - Sophie Scobell, NIH IRTA Fellow
+* Mentor - Maya Sinha, NIH Summer Student
+* FAES – BIOL262 Research Tools for Studying Diseases, Teaching Assistant (2018)
+* FAES – BIOF309 Introduction to Python Teaching Assistant (2017-2019)
 
 Publications
 ======
@@ -64,13 +99,6 @@ Publications
 * Yoder, J. A., Chambers, M. J., Tank, J. L., Keeney, G. D., & Miller, J. (2009). High temperature effects on water loss and survival examining the hardiness of female adults of the spider beetles, Mezium affine and Gibbium aequinoctiale. Journal of Insect Science, 9(1).
 * Yoder, J. A., Chambers, M. J., Condon, M. R., Benoit, J. B., & Zettler, L. W. (2009). Regulation of the external mycoflora of the giant Madagascar hissing-cockroach, Gromphadorhina portentosa, by its mite associate, Gromphadorholaelaps schaeferi, and its implications on human health. Symbiosis, 47(2), 93-98.
 
-Teaching
-======
-* Mentor - Sophie Scobell, NIH IRTA Fellow
-* Mentor - Maya Sinha, NIH Summer Student
-* FAES – BIOL262 Research Tools for Studying Diseases, Teaching Assistant (2018)
-* FAES – BIOF309 Introduction to Python Teaching Assistant (2017-2019)
-  
 Service & Honors
 ======
 * Member of the Society for Molecular Biology & Evolution, 2021-present
