@@ -13,3 +13,7 @@ A Github Pages template forked from [academic pages](https://github.com/academic
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
 See more info at https://academicpages.github.io/
+
+# Notes
+- modifying the "about.md" page as a single cv, located in "_pages"
+- turned off all tabs in "data/navigation.yml"
