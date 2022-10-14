@@ -39,7 +39,7 @@ Skills
 * Programming
   * Languages: Bash, Python (Numpy, Pandas, Seaborn, SciKit Learn)
   * Reproducability: Jupyter Notebooks, Conda, Snakemake, Singularity, Git
-  * Bioinformatics: Samtools, Blast, MiniMap2
+  * Bioinformatics: GATK, Samtools, Blast, MiniMap2
   * Structural Biology: PyMol, ChimeraX, AlphaFold2
   * Comfortable using distributed computing resources
 
