@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+#### I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
+
 
 Education
 ======
@@ -18,19 +19,19 @@ Education
 Experience
 ======
 * **Postdoctoral Fellow - NIH Intramural Research Training Award** 
-  * NHGRI Systems Biology and Genome Engineering Section | 2023–Present 
+  * NHGRI Systems Biology and Genome Engineering Section, 2023–Present 
   * Developed and optimized high-throughput genetic screens to study human and viral protein interactions. 
   * Utilized high-performance computing clusters for data analysis and simulation tasks. 
   * Trained and supervised laboratory staff in advanced techniques and protocols. 
   * Authored scientific papers and presented findings at national conferences. 
 * **Biologist – Kelly Government Solutions**
-  * NIAID Vaccine Research Center | 2017–2018 
+  * NIAID Vaccine Research Center, 2017–2018 
   * Conducted immunological assays including flow cytometry and cell culture for vaccine research. 
   * Cloned and characterized human antibody responses to influenza virus. 
   * Documented and reported experimental data in compliance with GLP standards. 
 
 * **Post-baccalaureate Fellow - NIH Intramural Research Training Award**
-  * NIAID Vaccine Research Center | 2014–2017 
+  * NIAID Vaccine Research Center, 2014–2017 
   * Developed and validated epitope-mapping assays for HIV vaccine research. 
   * Collaborated with cross-functional teams to interpret and present experimental results. 
   
