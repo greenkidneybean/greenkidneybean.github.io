@@ -14,8 +14,8 @@ I'm fascinated by microbes and the selective pressures that shape their evolutio
 
 Education
 ======
-* **Wittenberg University, Springfield, OH** - Bachelor of Science in Biology, 2010
 * **Georgetown University, Washington, DC** - Ph.D in Microbiology & Immunology, 2023
+* **Wittenberg University, Springfield, OH** - Bachelor of Science in Biology, 2010
 
 Experience
 ======
