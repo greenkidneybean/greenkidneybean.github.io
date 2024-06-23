@@ -2,7 +2,9 @@ Repo for my personal website, linked [here](https://greenkidneybean.github.io)
 
 A Github Pages template forked from [academic pages](https://github.com/academicpages/academicpages.github.io), example [here](https://academicpages.github.io/). 
 
-Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Note: 
+* I'm typically just update the _config.yaml and _pages/about.md files
+* if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Instructions
 
