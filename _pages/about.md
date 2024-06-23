@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-#### I'm fascinated by microbes and the forces that shape their evolution. I work at the National Institutes of Health in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, ask me about it some time!
-
+About
+======
+I'm fascinated by microbes and the selective pressures that shape their evolution. I work at the National Human Genome Research Institute in Meru Sadhu's [Systems Biology & Genone Engineering Section](https://www.genome.gov/staff/Meru-J-Sadhu-PhD) and am currently focused on an evolutionary arms race between humans and poxviruses, please ask me about it some time!
 
 Education
 ======
@@ -51,8 +52,7 @@ Teaching
 
 Selected Publications
 ======
-* Chambers, M. J., Scobell, S. B., & Sadhu, M. J. (2024). Systematic genetic characterization of the human PKR kinase domain highlights its functional malleability to escape a viral substrate mimic. bioRxiv, 2024-05.
-* Weller, C. A., Andreev, I., Chambers, M. J., Park, M., Bloom, J. S., Sadhu, M. J., ... & NISC Comparative Sequencing Program. (2023). Highly complete long-read genomes reveal pangenomic variation underlying yeast phenotypic diversity. Genome Research, 33(5), 729-740..
-* Andrews, S. F., Chambers, M. J., Schramm, C. A., Plyler, J., Raab, J. E., Kanekiyo, M., ... & McDermott, A. B. (2019). Activation dynamics and immunoglobulin evolution of pre-existing and newly generated human memory B cell responses to influenza hemagglutinin. Immunity, 51(2), 398-410.
-* Hopp, C., Andrews, S., Chambers, M., Leggat, D. J., Traore, B., Pierce, S. K., ... & Crompton, P. D. (2019). Ex vivo analysis of Plasmodium falciparum-specific B cell responses to natural malaria infection in children and adults. The Journal of Immunology, 202(1), 190-45.
-* Andrews, S. F., Joyce, M. G., Chambers, M. J., Gillespie, R. A., Kanekiyo, M., Leung, K., ... & McDermott, A. B. (2017). Preferential induction of cross-group influenza A hemagglutinin stem–specific memory B cells after H7N9 immunization in humans. Science immunology, 2(13), eaan2676.
+* [Chambers, M. J., Scobell, S. B., & Sadhu, M. J. (2024). Systematic genetic characterization of the human PKR kinase domain highlights its functional malleability to escape a viral substrate mimic. bioRxiv, 2024-05.](https://www.biorxiv.org/content/10.1101/2024.05.29.596416v2.full)
+* [Weller, C. A., Andreev, I., Chambers, M. J., Park, M., Bloom, J. S., Sadhu, M. J., ... & NISC Comparative Sequencing Program. (2023). Highly complete long-read genomes reveal pangenomic variation underlying yeast phenotypic diversity. Genome Research, 33(5), 729-740.](https://genome.cshlp.org/content/33/5/729.full)
+* [Andrews, S. F., Chambers, M. J., Schramm, C. A., Plyler, J., Raab, J. E., Kanekiyo, M., ... & McDermott, A. B. (2019). Activation dynamics and immunoglobulin evolution of pre-existing and newly generated human memory B cell responses to influenza hemagglutinin. Immunity, 51(2), 398-410.](https://www.sciencedirect.com/science/article/pii/S1074761319302948)
+* [Andrews, S. F., Joyce, M. G., Chambers, M. J., Gillespie, R. A., Kanekiyo, M., Leung, K., ... & McDermott, A. B. (2017). Preferential induction of cross-group influenza A hemagglutinin stem–specific memory B cells after H7N9 immunization in humans. Science immunology, 2(13), eaan2676.](https://www.science.org/doi/full/10.1126/sciimmunol.aan2676?casa_token=gi9fnILDC_kAAAAA%3AuX_GyQ4x9gmAOtTKGul2oxfIIFN6pGWJK7jEXvAkHaY4MH3ycrVB-g8M9SDZqvtMzPbvO-coSZH77DU)
