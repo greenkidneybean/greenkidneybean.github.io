@@ -7,7 +7,7 @@ permalink: /posts/2024/07/expanding-donuts/
 
 This page demonstrates an interactive animation of expanding donut circles.
 
-<iframe src="https://greenkidneybean.github.io/greenkidneybean.github.io/html_projects/expanding-donuts.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="https://greenkidneybean.github.io/greenkidneybean.github.io/files/expanding-donuts.html" width="100%" height="500px" frameborder="0"></iframe>
 
 ## How it works
 
