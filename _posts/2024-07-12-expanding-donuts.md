@@ -3,8 +3,13 @@ title: 'Expanding Donuts'
 date: 2024-07-12
 permalink: /posts/2024/07/expanding-donuts/
 ---
+# Expanding Donuts Animation
+
+This page demonstrates an interactive animation of expanding donut circles.
+
 <div id="expanding-donuts-container"></div>
 
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', (event) => {
   const container = document.getElementById('expanding-donuts-container');
   container.innerHTML = `
@@ -37,72 +42,76 @@ document.addEventListener('DOMContentLoaded', (event) => {
 </head>
 <body>
     <div id="tunnel"></div>
-    <script>
-        const tunnel = document.getElementById('tunnel');
-        const colors = ['#FEFFFF', '#3494CF', '#E92851', '#F89F35'];
-        const maxSize = Math.max(window.innerWidth, window.innerHeight) * 1.5;
-        let circles = [];
-        let colorIndex = 0;
-        let time = 0;
-        let scrollBoost = 0;
-
-        function createCircle() {
-            const circle = document.createElement('div');
-            circle.classList.add('circle');
-            circle.style.borderColor = colors[colorIndex];
-            tunnel.appendChild(circle);
-            circles.push({ element: circle, size: 0, startTime: time });
-            
-            colorIndex = (colorIndex + 1) % colors.length;
-        }
-
-        function updateCircles() {
-            time += 0.016; // Assuming 60fps, adjust if needed
-
-            circles.forEach((circle, index) => {
-                const timeSinceCreation = time - circle.startTime;
-                const baseExpansion = Math.sin(timeSinceCreation * 2) * 0.5 + 1.5; // Sine wave between 1 and 2
-                circle.size += (baseExpansion + scrollBoost) * 2; // Adjust multiplier for desired speed
-
-                const scale = circle.size / maxSize;
-                circle.element.style.width = `${maxSize * scale}px`;
-                circle.element.style.height = `${maxSize * scale}px`;
-                circle.element.style.opacity = 1 - scale;
-                circle.element.style.zIndex = -index;  // Newer circles on top
-            });
-
-            // Remove circles that have grown too large
-            circles = circles.filter(circle => circle.size < maxSize);
-            circles.forEach((circle, index) => {
-                circle.element.style.zIndex = -index;
-            });
-
-            // Gradually decrease scroll boost
-            scrollBoost *= 0.95;
-
-            requestAnimationFrame(updateCircles);
-        }
-
-        // Handle scroll events
-        window.addEventListener('wheel', (event) => {
-            const delta = Math.abs(event.deltaY);
-            scrollBoost += delta * 0.001; // Adjust multiplier for desired sensitivity
-            scrollBoost = Math.min(scrollBoost, 2); // Cap the boost
-        });
-
-        // Create a new circle every 0.5 seconds
-        setInterval(createCircle, 500);
-
-        // Start the animation
-        updateCircles();
 </body>
 </html>
-`;
-
+  `;
+  
   // Extract and execute the script
-  const scriptContent = container.querySelector('script').textContent;
+  const scriptContent = `
+    const tunnel = document.getElementById('tunnel');
+    const colors = ['#FEFFFF', '#3494CF', '#E92851', '#F89F35'];
+    const maxSize = Math.max(window.innerWidth, window.innerHeight) * 1.5;
+    let circles = [];
+    let colorIndex = 0;
+    let time = 0;
+    let scrollBoost = 0;
+
+    function createCircle() {
+        const circle = document.createElement('div');
+        circle.classList.add('circle');
+        circle.style.borderColor = colors[colorIndex];
+        tunnel.appendChild(circle);
+        circles.push({ element: circle, size: 0, startTime: time });
+        
+        colorIndex = (colorIndex + 1) % colors.length;
+    }
+
+    function updateCircles() {
+        time += 0.016; // Assuming 60fps, adjust if needed
+
+        circles.forEach((circle, index) => {
+            const timeSinceCreation = time - circle.startTime;
+            const baseExpansion = Math.sin(timeSinceCreation * 2) * 0.5 + 1.5; // Sine wave between 1 and 2
+            circle.size += (baseExpansion + scrollBoost) * 2; // Adjust multiplier for desired speed
+
+            const scale = circle.size / maxSize;
+            circle.element.style.width = \`\${maxSize * scale}px\`;
+            circle.element.style.height = \`\${maxSize * scale}px\`;
+            circle.element.style.opacity = 1 - scale;
+            circle.element.style.zIndex = -index;  // Newer circles on top
+        });
+
+        // Remove circles that have grown too large
+        circles = circles.filter(circle => circle.size < maxSize);
+        circles.forEach((circle, index) => {
+            circle.element.style.zIndex = -index;
+        });
+
+        // Gradually decrease scroll boost
+        scrollBoost *= 0.95;
+
+        requestAnimationFrame(updateCircles);
+    }
+
+    // Handle scroll events
+    window.addEventListener('wheel', (event) => {
+        const delta = Math.abs(event.deltaY);
+        scrollBoost += delta * 0.001; // Adjust multiplier for desired sensitivity
+        scrollBoost = Math.min(scrollBoost, 2); // Cap the boost
+    });
+
+    // Create a new circle every 0.5 seconds
+    setInterval(createCircle, 500);
+
+    // Start the animation
+    updateCircles();
+  `;
   const script = document.createElement('script');
   script.textContent = scriptContent;
   document.body.appendChild(script);
 });
 </script>
+
+## How it works
+
+This animation creates expanding donut-like circles that pulse in a sine wave pattern. You can interact with the animation by scrolling your mouse wheel, which will temporarily speed up the expansion rate.
