@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Michael Chambers"
 title_separator          : "-"
-name                     : &name "Michael Chambers"
+name                     : &name "Michael Chambers, Ph.D."
 description              : &description "Postdoctoral Fellow at the National Human Genome Research Institute"
 url                      : https://greenkidneybean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michael Chambers"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Georgetown University and NIH-NHGRI"
+  bio              : "Postdoctoral Fellow at the National Human Genome Research Institute"
   location         : "Bethesda, MD USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Michael+J+Chambers" 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "greenkidneybean"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
