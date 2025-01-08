@@ -1,5 +1,5 @@
 # main links links
-main:
+#main: # commented out to remove tab navigation of page
   #- title: "Publications"
   #  url: /publications/
 
