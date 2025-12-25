@@ -1,0 +1,5 @@
+The app I'm using is NFC Tools
+
+1. Read card > Record 1 > Copy value 'https://...'
+2. Reformat card: Other > Advanced NFC commands > Search > NXP > MIFARE Ultralight EV1 48b: FOrmat NDEF > Send Command
+3. Write > Add a record > Custom URL/URI > Paste the link > Write
